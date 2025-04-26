@@ -1,0 +1,2 @@
+# FianaCounter
+Projet pharo
